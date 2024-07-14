@@ -686,11 +686,11 @@ img {
 }
 
 .blog-post .blog-info {
-  height: 150px;
-  background: #2929296d;
+  height: 180px;
+  background: #292929da;
   padding: 20px;
   position: relative;
-  bottom: 10%;
+  bottom: 20%;
 }
 
 .blog-post .publish-date {
